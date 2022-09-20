@@ -40,6 +40,7 @@ button {
 .intro {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     padding: 70px 0 70px 0;
     gap: 20px;
 }
